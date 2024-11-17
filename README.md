@@ -1,7 +1,7 @@
 # PowerBI_Super_Store_Sales_Dashboard
 
-Super Store Sales Dashboard
-Project Overview
+# Super Store Sales Dashboard
+## Project Overview
 The Super Store Sales Dashboard provides insights into sales performance, profitability, and customer segmentation for a retail superstore. Created using Power BI, this dashboard allows users to explore various aspects of sales data across different categories, regions, and timeframes. The dashboard serves as a valuable tool for decision-makers to understand sales trends, profit distribution, and customer preferences, enabling data-driven strategies for growth and efficiency.
 
 Key Features
